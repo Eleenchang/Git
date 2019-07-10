@@ -44,3 +44,6 @@ creating a branch is easy
 newline
 branch management strategy
 
+working on my task...
+
+finished my task:
