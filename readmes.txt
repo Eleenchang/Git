@@ -39,3 +39,8 @@ aslsac
 creating a branch is easy
 
 >>>>>>> feature1
+
+------------------------------
+newline
+branch management strategy
+
