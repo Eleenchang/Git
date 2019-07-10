@@ -20,3 +20,14 @@ add loaction beijing shanghao
 
 add new name : zhang li wang
 
+
+add the new branch use command line
+
+git checkout -b dev
+git branch dev
+git checkout dev
+git branch
+---------------------------------
+date 2019/7/10
+
+
