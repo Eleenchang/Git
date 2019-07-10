@@ -4,4 +4,7 @@ git
 new branch dev2
 commit and add operation
 
+date:2019/7/10
+I am fixing the bug on the current file
+
 
